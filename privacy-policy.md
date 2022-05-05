@@ -1,14 +1,23 @@
 [back](./)
 
-### 隐私政策
+### Privacy
 
-我们的隐私政策于2022年5月5日更新
-我们尊重并保护所有使用我们应用的用户个人隐私权。
-为了给您提供更准确、更有个性化的服务，我们会按照本隐私权政策的规定使用和披露您的个人信息。
+Our Privacy Policy was updated on May 5, 2022, effective for all apps under xiao dong zhou and macOSgame studio
 
-我们向您承诺
-我们不会向任何第三方提供、出售、出租、分享或交易您的个人信息
+- 1.  About personal information
+    -  We respect and protect the privacy of all users who use our app.
+    -  We will not provide, sell, rent, share or trade your personal information to any third party
 
-如果您有任何问题,请联系我们. 
+- 2.  About the application using screen recording
+     - Function: The function of the "magnifying glass" in the application. The only purpose of using screen recording is to capture the screen and magnify the display. 
+     - Data: Generate pictures using screen recording. 
+     - Purpose: After generating the picture, enlarge it and display it on the local screen.
+     - Third parties: Data will not be shared with any third parties.
+     - Storage: Recordings are not stored on the hard drive and are not sent to the Internet. The recorded data is only stored in memory and only exists for a few seconds,Not stored in any form of file, I will not collect, use, disclose, share and retain.
+     - Content: Only you can see the recorded content, no one else can get the recorded content. 
+
+
+If you have any questions, please contact us.
+
 __E-mail:macosbug@gmail.com__
 

@@ -2,12 +2,11 @@
 layout: default
 ---
 
-# magnifier
+# magnifierPro
 
-![magnifier](./magnifier/icon.png)  [magnifier](./magnifier/magnifier).   Zoom in on the screen
-There should be whitespace between paragraphs.
+![magnifierPro](./magnifier/icon.png)  [magnifierPro](./magnifier/magnifier).
+Zoom in on the screen
+Make it easy to see what you can't see
 
+end
 
-### Privacy
-
-[Privacy](./privacy-policy)
