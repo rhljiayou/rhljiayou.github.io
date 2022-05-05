@@ -2,14 +2,13 @@
 layout: default
 ---
 
-#### App List
+### App List
 
-[ ![](./magnifier/icon.png)   magnifierPro
-Zoom in on the screen,Make it easy to see what you can't see.](./magnifier/magnifier)   
+<p><img src="./magnifier/icon.png" width="80" height="80" /> <a href="./magnifier/magnifier"><strong>magnifierPro</strong></a>
+Zoom in on the screen,Make it easy to see what you can't see.
+</p>
 
-![AppStore](./AppStoreBadgeUSWhite.png)
-
-<p> <img src="./AppStoreBadgeUSWhite.png" width="100" height="100" /></p>
+<p> <img src="./AppStoreBadgeUSWhite.png" width="80" height="80" /></p>
 
 end
 
