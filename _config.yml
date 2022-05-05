@@ -1,5 +1,5 @@
 title: Mac App
-#description: __E-mail:macosbug@gmail.com__
-show_downloads: true
+description: __E-mail:macosbug@gmail.com__
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
