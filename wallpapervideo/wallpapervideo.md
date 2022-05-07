@@ -10,6 +10,8 @@ Drag the video into the window and set it directly after generation.
 <img style="display: block; vertical-align: middle;  margin-right: 8px; float: left;" src="../AppStoreBadgeUSWhite.png" width="80">
 </a>
 
+<br>
+
 ![](./screen1.png)   
 
 
