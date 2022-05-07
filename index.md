@@ -9,7 +9,7 @@ layout: default
 <a href="./wallpapervideo/wallpapervideo"  class="button fork">
 <img style="display: block; vertical-align: middle;  margin-right: 8px; float: left;" src="./wallpapervideo/icon.png" width="80">
 <span style="display: block; overflow: auto;">
-<strong>wallpaper video
+<strong><h4>wallpaper video</h4>
 <br>Use local video to set desktop dynamic wallpaper, pure DIY, without any network link, support multi-monitor settings.    
 </strong>
 </span>
