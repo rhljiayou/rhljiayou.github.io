@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# App List
 
 <br>
 
