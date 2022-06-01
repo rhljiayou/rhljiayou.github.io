@@ -2,9 +2,6 @@
 layout: default
 ---
 
-
-<br>
-
 <a href="./clockshow/clockshow"  class="button fork">
 <img style="display: block; vertical-align: middle;  margin-right: 8px; float: left;" src="./clockshow/icon_512.png" width="80">
 <span style="display: block; overflow: auto;">
