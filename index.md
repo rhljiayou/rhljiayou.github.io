@@ -11,7 +11,6 @@ layout: default
 </span>
 </a>
 
-<br>
 
 <a href="./wallpapervideo/wallpapervideo"  class="button fork">
 <img style="display: block; vertical-align: middle;  margin-right: 8px; float: left;" src="./wallpapervideo/icon.png" width="80">
