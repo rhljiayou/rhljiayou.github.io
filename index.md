@@ -6,6 +6,17 @@ layout: default
 
 <br>
 
+<a href="./effectsdesktop/effectsdesktop"  class="button fork">
+<img style="display: block; vertical-align: middle;  margin-right: 8px; float: left;" src="./effectsdesktop/icon_512.png" width="80">
+<span style="display: block; overflow: auto;">
+<strong><font size="5">effects desktop</font>
+<br>very cool dynamic desktop effects. Rain, snow, cherry blossoms, fireflies, fireworks, water ripples, etc.      
+</strong>
+</span>
+</a>
+
+<br>
+
 <a href="./clockshow/clockshow"  class="button fork">
 <img style="display: block; vertical-align: middle;  margin-right: 8px; float: left;" src="./clockshow/icon_512.png" width="80">
 <span style="display: block; overflow: auto;">
