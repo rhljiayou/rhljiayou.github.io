@@ -4,6 +4,18 @@ layout: default
 
 # App List
 
+
+<br>
+
+<a href="./particlewallpaper/particlewallpaper"  class="button fork">
+<img style="display: block; vertical-align: middle;  margin-right: 8px; float: left;" src="./particlewallpaper/Icon_512x512.png" width="80">
+<span style="display: block; overflow: auto;">
+<strong><font size="5">particle wallpaper</font>
+<br>a very cool dynamic wallpaper that can be interacted with the mouse.      
+</strong>
+</span>
+</a>
+
 <br>
 
 <a href="./effectsdesktop/effectsdesktop"  class="button fork">
