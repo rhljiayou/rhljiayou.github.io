@@ -2,7 +2,7 @@
 
 # Privacy
 
-Our Privacy Policy was updated on May 7, 2022, effective for all apps under 'macosbug '
+Our Privacy Policy was updated on December 5, 2024, effective for all apps under 'Ren HaiLi '
 
 1. About personal information
  -  We respect and protect the privacy of all users who use our app.
