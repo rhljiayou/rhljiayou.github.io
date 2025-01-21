@@ -62,15 +62,6 @@ layout: default
 
 <br>
 
-<a href="./rapidjumptv/rapidjumptv"  class="button fork">
-<img style="display: block; vertical-align: middle;  margin-right: 8px; float: left;" src="./rapidjumptv/Icon_512x512.png" width="80">
-<span style="display: block; overflow: auto;">
-<strong><font size="5">rapid jump</font>
-<br>a very interesting game.    
-</strong>
-</span>
-</a>
-
 <br>
 
 <br>
